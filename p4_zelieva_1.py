@@ -1,0 +1,12 @@
+usr_house = input("Enter your house number: ")
+usr_flat = input("Enter your flat: ")
+usr_city = input("Enter your city: ")
+usr_index = input("Enter your index: ")
+usr_country = input("Enter your country: ")
+
+print(usr_name)
+print(usr_surname)
+print(usr_ph_number)
+print(usr_street,", house",usr_house,", flat",usr_flat,",",usr_city)
+print(usr_index)
+print(usr_country)
